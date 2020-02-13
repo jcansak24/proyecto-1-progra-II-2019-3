@@ -1,0 +1,6 @@
+c:\users\usjim\documents\visual studio 2015\Projects\ReordenandoLetras\ReordenandoLetras\bin\Debug\ReordenandoLetras.exe.config
+c:\users\usjim\documents\visual studio 2015\Projects\ReordenandoLetras\ReordenandoLetras\bin\Debug\ReordenandoLetras.exe
+c:\users\usjim\documents\visual studio 2015\Projects\ReordenandoLetras\ReordenandoLetras\bin\Debug\ReordenandoLetras.pdb
+c:\users\usjim\documents\visual studio 2015\Projects\ReordenandoLetras\ReordenandoLetras\obj\Debug\ReordenandoLetras.exe
+c:\users\usjim\documents\visual studio 2015\Projects\ReordenandoLetras\ReordenandoLetras\obj\Debug\ReordenandoLetras.pdb
+c:\users\usjim\documents\visual studio 2015\Projects\ReordenandoLetras\ReordenandoLetras\obj\Debug\ReordenandoLetras.csprojResolveAssemblyReference.cache
